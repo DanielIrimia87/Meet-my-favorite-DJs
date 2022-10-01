@@ -6,7 +6,7 @@ This project is the Week 1 Assignment of Brainnest Front-End Training. It's an H
 A link to the website:
 
 # On GitHub:
-https://danielirimia87.github.io/Meet-my-favorite-DJs/index.html
+https://danielirimia87.github.io/Meet-my-favorite-DJs/
 
 # On Netlify:
 https://meet-my-favorite-djs.netlify.app/
