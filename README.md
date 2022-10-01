@@ -1,3 +1,6 @@
-# Main-Html-Project
+# Meet-my-favorite-DJs
 
-A link to my website  https://danielirimia87.github.io/main-html-project/ 
+This project is the Week 1 Assignment of Brainnest Front-End Training. It's an HTML-only website with my top favorites DJ's and why I love them so much 
+
+
+A link to the website  
